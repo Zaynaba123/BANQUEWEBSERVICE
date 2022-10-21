@@ -7,7 +7,7 @@
 <img src="screens/compte.JPG">
 
 <h3>SOAP UI: test de la method listCompte pour afficher tous les comptes</h3>
-<img src="screens/compte.JPG">
+<img src="screens/comptes.JPG">
 
 
 <h3>SOAP UI: test de la method conversion pour convertir l'euro en mad</h3>
